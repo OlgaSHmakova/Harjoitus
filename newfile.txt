@@ -1,2 +1,7 @@
 hello
 Olga  Sh
+<<<<<<< Updated upstream
+=======
+12
+good bye
+>>>>>>> Stashed changes

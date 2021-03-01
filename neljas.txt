@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 nyt OK
+=======
+ei ole OK
+>>>>>>> fbfcd9c67cf9e06adcdf87f714305e03a709a416

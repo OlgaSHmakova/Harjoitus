@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Terveisiä paikalliselta tietokoneelta
+=======
+Terveisiä GitHubista
+>>>>>>> cc2880ed8e3e4538b0b323fa2646ff886ea4a1f8

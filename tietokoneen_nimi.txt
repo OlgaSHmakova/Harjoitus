@@ -2,3 +2,4 @@ lenovo
 Olga 
 Tue Feb 23 19:20:13     2021
 01.03.2021
+ei toimii
